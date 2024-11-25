@@ -1,0 +1,6 @@
+D:\5-Projects\visual studio\practice 2-Alireza-zare\practice 2-Alireza-zare\bin\Debug\practice 2-Alireza-zare.exe.config
+D:\5-Projects\visual studio\practice 2-Alireza-zare\practice 2-Alireza-zare\bin\Debug\practice 2-Alireza-zare.exe
+D:\5-Projects\visual studio\practice 2-Alireza-zare\practice 2-Alireza-zare\bin\Debug\practice 2-Alireza-zare.pdb
+D:\5-Projects\visual studio\practice 2-Alireza-zare\practice 2-Alireza-zare\obj\Debug\practice 2-Alireza-zare.csprojResolveAssemblyReference.cache
+D:\5-Projects\visual studio\practice 2-Alireza-zare\practice 2-Alireza-zare\obj\Debug\practice 2-Alireza-zare.exe
+D:\5-Projects\visual studio\practice 2-Alireza-zare\practice 2-Alireza-zare\obj\Debug\practice 2-Alireza-zare.pdb
